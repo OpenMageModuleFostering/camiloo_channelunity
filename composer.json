@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Camiloo_Channelunity",
+    "name": "OpenMageModuleFostering\/Camiloo_Channelunity",
     "type": "magento-module",
     "license": "ChannelUnity-EULA",
     "homepage": "",
     "description": "ChannelUnity Integration for Magento.",
     "authors": [
-    {
-        "name": "ChannelUnity Limited",
-        "email": "support@channelunity.com"
-    }
-],
+        {
+            "name": "ChannelUnity Limited",
+            "email": "support@channelunity.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
